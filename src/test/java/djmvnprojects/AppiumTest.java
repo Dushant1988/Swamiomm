@@ -16,4 +16,10 @@ public class AppiumTest {
 		System.out.println("Appium2");
 	}	
 	
+	@Test	
+	public void Appium3()
+	{
+		System.out.println("Success");
+	}	
+	
 }
